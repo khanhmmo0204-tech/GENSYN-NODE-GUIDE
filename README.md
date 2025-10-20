@@ -14,6 +14,7 @@ System Requirements:
 
 Install Dependencies:
 1. Update and install core tools:
+```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y python3 python3-venv python3-pip curl screen git lsof nano
 
