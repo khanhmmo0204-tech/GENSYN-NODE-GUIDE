@@ -17,8 +17,10 @@ Install Dependencies:
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y python3 python3-venv python3-pip curl screen git lsof nano
+```
 
 2. Install Node.js 20.x and npm:
+```bash
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs
 
